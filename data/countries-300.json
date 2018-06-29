@@ -1,0 +1,2916 @@
+{
+  "CountryResource": {
+    "Countries": {
+      "Country": [
+        {
+          "CountryCode": "SV",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "El Salvador (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Salvador"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "El Salvador (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "El Salvador"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "El Salvador"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "SX",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Saint Maarten"
+            }
+          }
+        },
+        {
+          "CountryCode": "SY",
+          "ZoneCode": "MEA",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Syrien"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Síria, República Árabe da"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Syria (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Sirija"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rep. Araba Siriana"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Syrie"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "República Árabe Siria"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Syria (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Syrian Arab Republic"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Syria"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Arabische Republiek Syrië"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "SZ",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Swasiland"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Swaziland (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Suazilândia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Svazi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Swazilandia"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Swaziland"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Swaziland (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Suazi"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Swaziland"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TC",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Turks- und Caicos Inseln"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Turks & Caicos Islands (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Ilhas Turks e Caicos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Otoci Turks i Caicos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Islas Turks y Caicos"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Turks & Caicos Islands (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Turks And Caicos Islands"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Turks- en Caicoseilanden"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TD",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Tschad"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tchade"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Chad (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Čad"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Chad (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Chad"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Czad"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Tsjaad"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TF",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "French Southern and Antarctic Lands"
+            }
+          }
+        },
+        {
+          "CountryCode": "TG",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Togo (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Togo (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Togo"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Togo"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TH",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "태국"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tailândia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tajland"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Thailandia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Thaïlande"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Tailandía"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Thailand (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Thailand"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Thajlandia"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TJ",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Tadschikistan"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Tajikistan (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tadjiquistão"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tadžikistan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Tajikistan (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Tajikistan"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Tadzjikistan"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TM",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Turkmenistan (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Turquemenistão"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Turkménistan"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Turkmenistán"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Turkmenistan (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Turkmenistan"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Turkmenistan"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TN",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Tunesien"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "튀니지"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tunis"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Tunisie"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Tunisia (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Tunezja"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Tunisia"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Tunesië"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TO",
+          "ZoneCode": "OCE",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Tonga (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Islas Tonga"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Tonga (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Tonga"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Tonga"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TP",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Timor Lorosae"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "East Timor (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Istočni Timor"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "East Timor (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "East Timor"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Oost-Timor"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TR",
+          "ZoneCode": "EUR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Türkei"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Turquia"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "터키"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Turska"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Turchia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Turquie"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Turquía"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Turkey (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Turcja"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Turkey"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Turkije"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TT",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Trinidad und Tobago"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Trindade & Tobago"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Trinidad and Tobago (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Trinidad i Tobago"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Trinidad y Tobago"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Trinidad and Tobago (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Trinidad & Tobago"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Trinidad en Tobago"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TV",
+          "ZoneCode": "OCE",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Tuvalu (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Tuvalú"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Tuvalu (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Tuvalu"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Tuvalu"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TW",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Taiwan, Republik China"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "대만"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Taiwan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tajvan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Taiwan, Repubblica della Cina"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Taïwan (République de Chine)"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Taiwán, República de China"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Taiwan R.O.C. (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Taiwan, Republic of China"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Tajwan, Republika Chin"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "TZ",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Tansania"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tanzânia"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Tanzania (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Tanzanija"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Tanzanie"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Tanzania (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Tanzania"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Tanzania"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "UA",
+          "ZoneCode": "EUR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Ucrânia"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "우크라이나"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Ukrajina"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ucraina"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ukrania"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Ukraine (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Ukraina"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Ukraine"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Oekraïne"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "UG",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Uganda (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Uganda (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Uganda"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Uganda"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "UM",
+          "ZoneCode": "OCE",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Ilhas Menores Exteriores Americanas"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "US Minor Outlying Islands (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "United States Minor Islands"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Islas Periféricas de los E.E.U.U."
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "US Minor Outlying Islands (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "US Minor Outlying Islands"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "US Minor Outlying Islands"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "US",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Estados Unidos da América"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "미국"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "SAD"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Etats-Unis d'Amérique"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Estados Unidos de América"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "United States of America (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "USA"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Verenigde Staten van Amerika"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "UY",
+          "ZoneCode": "SAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Uruguai"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Uruguay (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Urugvaj"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Uruguai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Uruguay (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Uruguay"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Urugwaj"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "UZ",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Usbekistan"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Uzebequistão"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Uzbekistan (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ouzbékistan"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Uzbekistán"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Uzbekistan (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Uzbekistan"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Oezbekistan"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VA",
+          "ZoneCode": "EUR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Vatikanstaat"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ватикан (ru)"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Vatican City State (fi)"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Vatican City State (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Vaticano, Cidade Estado do"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vatican City State"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Sveta Stolica (Vatikan)"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Città del Vaticano"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vatican"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Vatican City State (hu)"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vatican"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Vatican City State (ka)"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Vatican City State"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Vatican City State (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Vatican City State (mi)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Watykan"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Vaticaanstad (staat)"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VC",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "St. Vincent"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "St. Vincent (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Sveti Vincent"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Vicente"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "St. Vincent (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "St Vincent"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "St Vincent"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VE",
+          "ZoneCode": "SAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "베네수엘라"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Venecuela"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vénézuela"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Venezuela (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Venezuela"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Wenezuela"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VG",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Jungferninseln (GB)"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Ilhas Virgens"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "British Virgin Islands (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Britanski Djevičanski otoci"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Isole Vergini (GB)"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Islas Vírgenes Británicas"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "British Virgin Islands (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Virgin Islands (GB)"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Maagdeneilanden (GB)"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VI",
+          "ZoneCode": "NAM",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Jungferninseln (US)"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Virgin Islands U.S. (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Ilhas Virgens (US)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Djevičanski otociSad-a"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Isole Vergini (US)"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Islas Vírgenes Americanas"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Virgin Islands U.S. (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Virgin Islands (US)"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Maagdeneilanden (US)"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VN",
+          "ZoneCode": "ASI",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "베트남"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Vijetnam"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Viet Nam (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Wietnam"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Vietnam"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Vietnam"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "VU",
+          "ZoneCode": "OCE",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Vanuatu (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "República de Vanuatú"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Vanuatu (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Vanuatu"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Vanuatu"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "WF",
+          "ZoneCode": "OCE",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Wallis und Futuna Inseln"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Ilhas Wallis e Fortuna"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Wallis & Futuna Islands (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Wallis i Futuna"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wallis y Futuna"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Wallis & Futuna Islands (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Wallis And Futuna Islands"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Wallis en Futuna Eilanden"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "WS",
+          "ZoneCode": "OCE",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Samoa (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Samoa (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Samoa"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Samoa"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "XX",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Andere Länder"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Другие страны"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "다른 국가들"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Outros países"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "其他国家"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "その他の国"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Other countries"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Altri paesi"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Inne kraje"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Autre pays"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "其他國家"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Otros paises"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "YE",
+          "ZoneCode": "MEA",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Jemen"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Republic of Yemen (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Yémen, Rep. do"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Jemen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yémen"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Republic of Yemen (sl)"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Jemen"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Yemen"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Jemen"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "YT",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Mayotte (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Mayotte (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Mayotte"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Mayotte"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "ZA",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Südafrika"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "남아프리카"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "África do Sul"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Južna Afrika"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sud Africa"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Afrique du Sud"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sudáfrica"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "South Africa (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "South Africa"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Afryka Południowa"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Zuid-Afrika"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "ZM",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Sambia"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Zambia (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Zâmbia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Zambija"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Zambia (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Zambia"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Zambia"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "ZR",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Zaire (ko)"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Zaire (hr)"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Zaire (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Zaire"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Zaïre"
+              }
+            ]
+          }
+        },
+        {
+          "CountryCode": "ZW",
+          "ZoneCode": "AFR",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Simbabwe"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "fi",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "Zimbabwe (ko)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "hr",
+                "$": "Zimbabve"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "hu",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "sl",
+                "$": "Zimbabwe (sl)"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "Zimbabwe"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Zimbabwe"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Meta": {
+      "@Version": "1.0.0",
+      "Link": [
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries?limit=100&offset=200",
+          "@Rel": "self"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries?limit=100&offset=0",
+          "@Rel": "first"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries?limit=100&offset=100",
+          "@Rel": "previous"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries\/{countryCode}",
+          "@Rel": "related"
+        }
+      ],
+      "TotalCount": 241
+    }
+  }
+}
