@@ -1,0 +1,117 @@
+{
+	"info": {
+		"_postman_id": "93585250-5283-4705-81b3-7c0a8cea5545",
+		"name": "countries",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET /en/countries.json raw file",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/countries",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"countries"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/countries",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/countries",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"countries"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/countries/[code]",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/countries/GB",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"countries",
+						"GB"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/countries?name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/countries?name=united",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"countries"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "united"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/countries?zone",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/countries?zone=EUR",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"countries"
+					],
+					"query": [
+						{
+							"key": "zone",
+							"value": "EUR"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
